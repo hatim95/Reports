@@ -1,0 +1,3 @@
+node_modules
+
+// path.join(__dirname, '../jam-test-vectors/stf/reports/full')
